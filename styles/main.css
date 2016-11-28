@@ -6,6 +6,7 @@ font-family: 'Oswald', sans-serif;*/
 .image-container { 
   background: url(../images/coworking.jpg) no-repeat center center fixed; 
   background-size: cover;
+  background-position: 10% 80%;
 }
 
 .toolbar {
